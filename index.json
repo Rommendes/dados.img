@@ -41,7 +41,7 @@
          {
             "nome": " Claudio Posser",
             "numero": "11200",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Claudio.jpg"
         },
