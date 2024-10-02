@@ -218,7 +218,7 @@
         {
             "nome": "Toninho",
             "numero": "15111",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/Toninho.jpg"
         },
