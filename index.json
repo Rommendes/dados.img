@@ -4,7 +4,7 @@
           {
             "nome": "Aci da Silva Cardoso ",
             "numero": "11555",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Aci.jpg"
         },
@@ -19,21 +19,21 @@
         {
             "nome": "Bender",
             "numero": "15190",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/Bender.jpg"
         },
         {
             "nome": "Fernando Canhoto",
             "numero": "13713",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PT",
             "imagem":"https://dados-img.vercel.app/IMG/Canhoto.jpg"
         },
         {
             "nome": "Carmem da Silva",
             "numero": "12222",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PDT",
             "imagem":"https://dados-img.vercel.app/IMG/Carmem.jpg"
         },
@@ -50,7 +50,7 @@
         {
             "nome": "Debora Simões",
             "numero": "11333",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Cris.jpg"
         },
@@ -58,7 +58,7 @@
         {
             "nome": "Dilamar da Silva Machado",
             "numero": "12345",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PDT",
             "imagem":"https://dados-img.vercel.app/IMG/Dilamar.jpg"
         },
@@ -66,7 +66,7 @@
         {
             "nome": "Eliane Santos",
             "numero": "13133",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PT",
             "imagem":"https://dados-img.vercel.app/IMG/Eliane.jpg"
         },
@@ -74,7 +74,7 @@
         {
             "nome": "Elisane Rodrigues",
             "numero": "13888",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PT",
             "imagem":"https://dados-img.vercel.app/IMG/Elizane.jpg"
         },
@@ -82,7 +82,7 @@
         {
             "nome": "Enizar Domingos",
             "numero": "11333",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Enizar.jpg"
         },
@@ -90,7 +90,7 @@
         {
             "nome": "Erviton Gomes",
             "numero": "13013",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PT",
             "imagem":"https://dados-img.vercel.app/IMG/Erviton.jpg"
         },
@@ -98,7 +98,7 @@
         {
             "nome": "Fernando Canhoto",
             "numero": "13713",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PT",
             "imagem":" "
         },
@@ -106,7 +106,7 @@
         {
             "nome": "Gilson Severo",
             "numero": "15123",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/Gilson.jpg"
         },
@@ -114,7 +114,7 @@
         {
             "nome": "Giselda Bassan",
             "numero": "15625",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/Gigi.jpg"
         },
@@ -122,7 +122,7 @@
         {
             "nome": "Glaucia Machado",
             "numero": "15555",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/Glaucia.jpg"
         },
@@ -130,7 +130,7 @@
         {
             "nome": "Izane da Silveira Mathias",
             "numero": "11123",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Izane.jpg"
         },
@@ -138,7 +138,7 @@
         {
             "nome": "Janilson Souza",
             "numero": "13007",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PT",
             "imagem":"https://dados-img.vercel.app/IMG/Janilson.jpg"
         },
@@ -146,7 +146,7 @@
         {
             "nome": "Maneco",
             "numero": "11888",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Maneco.jpg"
         },
@@ -154,7 +154,7 @@
         {
             "nome": "Marcelo Silveira",
             "numero": "11222",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Marcelo.jpg"
         },
@@ -162,7 +162,7 @@
         {
             "nome": "Mariane Machado",
             "numero": "11777",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Mariane.jpg"
         },
@@ -170,7 +170,7 @@
         {
             "nome": "Mateus Ruviaro",
             "numero": "15200",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/Ruviaro.jpg"
         },
@@ -178,7 +178,7 @@
         {
             "nome": "Matheus Stromm",
             "numero": "15015",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PMDB",
             "imagem":"https://dados-img.vercel.app/IMG/Mateus.jpg"
         },
@@ -186,7 +186,7 @@
         {
             "nome": "Medianeira Vargas",
             "numero": "13000",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PT",
             "imagem":"https://dados-img.vercel.app/IMG/Medianeira.jpg"
         },
@@ -194,7 +194,7 @@
         {
             "nome": "Pablo Milani",
             "numero": "15620",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/Pablo.jpg"
         },
@@ -202,7 +202,7 @@
         {
             "nome": "Seila Trindade Ferreira",
             "numero": "12123",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PDT",
             "imagem":"https://dados-img.vercel.app/IMG/Seila.jpg"
         },
@@ -225,7 +225,7 @@
         {
             "nome": "Valdo",
             "numero": "11999",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "PP",
             "imagem":"https://dados-img.vercel.app/IMG/Valdo.jpg"
         },
