@@ -210,7 +210,7 @@
         {
             "nome": "Thiago Weber",
             "numero": "15222",
-            "tipo": "Vereador",
+            "tipo": "vereador",
             "partido": "MDB",
             "imagem":"https://dados-img.vercel.app/IMG/TiagoW.jpg"
         },
